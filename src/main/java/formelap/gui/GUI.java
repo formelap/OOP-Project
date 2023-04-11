@@ -1,6 +1,6 @@
 package formelap.gui;
 
-import formelap.entity.*;
+import formelap.model.*;
 import formelap.exceptions.InvalidFileExtensionException;
 import formelap.exceptions.OrganismOutOfBordersException;
 import formelap.world.Position;

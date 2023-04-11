@@ -1,4 +1,4 @@
-package formelap.entity;
+package formelap.model;
 
 import formelap.world.Position;
 

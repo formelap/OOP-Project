@@ -1,6 +1,6 @@
 package formelap.world;
 
-import formelap.entity.Organism;
+import formelap.model.Organism;
 
 import java.util.*;
 
