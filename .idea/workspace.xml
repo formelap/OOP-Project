@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8108bc95-59b8-46d0-a36f-72a402d5101f" name="Changes" comment="minor changes">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/formelap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/formelap/entity/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/formelap/entity/AnimalSpecies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/formelap/entity/Coca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/formelap/entity/DeadlyNightshade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/formelap/entity/Fox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/formelap/entity/Grass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/formelap/entity/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/formelap/entity/Organism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/formelap/entity/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/formelap/entity/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/formelap/entity/Sheep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/formelap/entity/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/formelap/entity/Wolf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/formelap/exceptions/InvalidFileExtensionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/formelap/exceptions/OrganismOutOfBordersException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/formelap/gui/FileTypeFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/formelap/gui/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/formelap/gui/PositionButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/formelap/world/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/formelap/world/World.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OH0Ksqjtb64rhBaYPfnLzvpxrb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Piotr/Desktop/Java-OOP-project/src/main/java/formelap",
+    "settings.editor.selected.configurable": "editor.preferences.appearance"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Piotr\Desktop\Java-OOP-project\src\main\java\formelap" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8108bc95-59b8-46d0-a36f-72a402d5101f" name="Changes" comment="" />
+      <created>1681202139221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681202139221</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="minor changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor changes" />
+  </component>
+</project>
