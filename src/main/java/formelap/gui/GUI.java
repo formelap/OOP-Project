@@ -136,7 +136,7 @@ public class GUI {
         close.addActionListener(event -> frame.dispatchEvent(new WindowEvent(frame, WindowEvent.WINDOW_CLOSING)));
 
         JMenuItem info = new JMenuItem("Info");
-        info.addActionListener(event -> JOptionPane.showMessageDialog(frame, "Projekt przygotowany przez:\nPiotr Formela\nnr albumu: 191002"));
+        info.addActionListener(event -> JOptionPane.showMessageDialog(frame, "Projekt przygotowany przez:\nnr albumu:"));
 
         menu.add(open);
         menu.add(save);
